@@ -1,0 +1,17 @@
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\bin\Debug\net8.0\Ckopopehatonie.exe
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\bin\Debug\net8.0\Ckopopehatonie.deps.json
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\bin\Debug\net8.0\Ckopopehatonie.runtimeconfig.json
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\bin\Debug\net8.0\Ckopopehatonie.dll
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\bin\Debug\net8.0\Ckopopehatonie.pdb
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\obj\Debug\net8.0\Ckopopehatonie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\obj\Debug\net8.0\Ckopopehatonie.AssemblyInfoInputs.cache
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\obj\Debug\net8.0\Ckopopehatonie.AssemblyInfo.cs
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\obj\Debug\net8.0\Ckopopehatonie.csproj.CoreCompileInputs.cache
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\obj\Debug\net8.0\Ckopopehatonie.dll
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\obj\Debug\net8.0\refint\Ckopopehatonie.dll
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\obj\Debug\net8.0\Ckopopehatonie.pdb
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\obj\Debug\net8.0\Ckopopehatonie.genruntimeconfig.cache
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\obj\Debug\net8.0\ref\Ckopopehatonie.dll
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\obj\Debug\net8.0\Ckopopehatonie.csproj.AssemblyReference.cache
+C:\Users\ULNV_Developer\source\repos\Ckopopehatonie\Ckopopehatonie\obj\Debug\net8.0\Ckopopehatonie.csproj.CopyComplete
